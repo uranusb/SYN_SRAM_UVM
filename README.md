@@ -13,6 +13,6 @@ Testbench:
 
 Tested on Synopsys VCS.
 
-2 scenarios: 
-1) Write 16 packets to the SRAM with random address and data, then randomly read data from 16 random addresses.
-2) Do write and read randomly and continuously for 64 times.
+Two scenarios: 
+1. (seq_test) Write 16 packets to the SRAM with random address and data, then randomly read data from 16 random addresses.
+2. (rand_test) Do write and read randomly and continuously for 64 times.
