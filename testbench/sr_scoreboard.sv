@@ -32,7 +32,5 @@ class sr_scoreboard extends uvm_scoreboard;
     end
   endfunction
 
-    
-  
 endclass
   
