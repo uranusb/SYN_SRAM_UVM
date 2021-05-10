@@ -23,7 +23,6 @@ class seq_sequence extends uvm_sequence#(sr_sequence_item);
   endtask
 endclass
 
-
 //Random WR RD
 class rand_sequence extends uvm_sequence#(sr_sequence_item);
   `uvm_object_utils(rand_sequence)
