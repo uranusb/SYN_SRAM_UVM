@@ -2,8 +2,11 @@
 DUT:
 
 A basic Static RAM (SRAM) with synchronous reset.
+<br />
 Size: Width 16 * Depth 32
+<br />
 wr_en = 1: write data
+<br />
 wr_en = 0: read data
 
 <br />
